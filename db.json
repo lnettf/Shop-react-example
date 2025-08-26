@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin123",
+      "email": "admin@tiendaapp.com",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "user1",
+      "password": "user123",
+      "email": "user1@tiendaapp.com",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "username": "test",
+      "password": "test123",
+      "email": "test@tiendaapp.com",
+      "role": "user"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop Gaming",
+      "price": 1299.99,
+      "description": "Laptop de alta gama para gaming",
+      "category": "electronics",
+      "stock": 15,
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Auriculares Bluetooth",
+      "price": 89.99,
+      "description": "Auriculares inalámbricos con cancelación de ruido",
+      "category": "electronics",
+      "stock": 25,
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Camiseta Casual",
+      "price": 29.99,
+      "description": "Camiseta de algodón 100% orgánico",
+      "category": "clothing",
+      "stock": 50,
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Smartphone Pro",
+      "price": 799.99,
+      "description": "Smartphone con cámara de alta resolución",
+      "category": "electronics",
+      "stock": 8,
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Mochila Deportiva",
+      "price": 45.99,
+      "description": "Mochila resistente al agua para deportes",
+      "category": "accessories",
+      "stock": 30,
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    }
+  ]
+}
