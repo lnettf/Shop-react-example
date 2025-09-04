@@ -1,11 +1,12 @@
 import { createBrowserRouter } from "react-router";
 import App from "./App";
-import { ProductDetail } from "./pages/product/productDetail/ProductDetail";
+import { ProductDetail } from "./pages/product/ProductDetail/ProductDetail";
 import { Cart } from "./pages/Cart/Cart";
 import { Login } from "./pages/Login/Login";
 import { Register } from "./pages/Register/Register";
 import { Template } from "./components/Template/Template";
 import { Dashboard } from "./pages/Dashboard/Dashboard";
+
 import { AuthLayout } from "./components/AuthLayout/AuthLayout";
 
 export const router = createBrowserRouter([
